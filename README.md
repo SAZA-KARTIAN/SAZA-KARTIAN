@@ -1,5 +1,5 @@
 - 👋 ¡Hola! Soy Sebastián Zúñiga @SAZA-KARTIAN
-- 🎓 Soy Ingeniero Civil Industrial e Ingeniero en Mantenimiento Industrial  
+- 🎓 Soy Ingeniero Civil Industrial e Ingeniero en Mantenimiento Industrial de la Universidad Técnica Federico Santa María
 - 👀 Me interesan la ciencia de datos, la ingeniería industrial, los sistemas de transporte vertical.  
 - 🌱 Actualmente estoy aprendiendo SQL, Java y Power BI
 - 🛠️ Herramientas que utilizo: Python, R, AMPL, Excel, Power BI, Looker Studio y SQL.  
